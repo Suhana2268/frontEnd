@@ -1,0 +1,68 @@
+form{
+	width: 600px;
+	margin: 30px;
+	height: 600px;
+	border: 2px;
+	border-color: black;
+	background-color: #2d2d2d;
+	padding-left: 2000px;
+}
+.container{
+	margin: 100px;
+	margin-left: 600px;
+	padding-left: 1000px;
+
+	}
+.lb{
+	color: white;
+	padding: 15px;
+	font-size:20px;
+	font-variant:small-caps;
+}
+.inp {
+	padding: 5px;
+	width: 174px;
+	font-variant:small-caps;
+}
+table{
+	padding-top: 25px;
+	padding-left: 20px;
+}
+body{
+	background-image: url("https://wallpaperaccess.com/full/4012588.jpg");
+}
+.btn{
+	background-color: black;
+	color: white;
+	font-weight: bold;
+	padding: 5px;
+	margin-left: 5px;
+	height: 30px;
+	width: 150px;
+	font-variant:small-caps;
+}
+.sbtn {
+	background-color: #23506d;
+	color: white;
+	margin-top: 40px;
+	padding: 6px;
+	margin-left: 36px;
+	width: 190px;
+	font-size: 15px;
+	font-variant:small-caps;
+}
+.sbtn1{
+	background-color: #23506d;
+	color: white;
+	margin-top: 40px;
+	padding: 6px;
+	margin-left: 204px;
+	width: 152px;
+	font-size: 15px;
+	font-variant:small-caps;
+}
+.inp1{
+	padding: 5px;
+	width: 184px;
+	font-variant:small-caps;
+}
